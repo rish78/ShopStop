@@ -1,0 +1,14 @@
+.sign-up {
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  //   background: rgb(236, 248, 255);
+  border-radius: 20px;
+  padding: 20px;
+
+  .title {
+    margin: 10px 0;
+  }
+}
